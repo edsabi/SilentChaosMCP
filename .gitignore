@@ -1,0 +1,18 @@
+# Credentials and secrets
+mcp_server/.env
+mcp_server/mcp_signup_ips.json
+
+# Claude Code config
+.claude/
+.mcp.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Game server (separate repo)
+Silent-Chaos/
